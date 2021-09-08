@@ -22,7 +22,6 @@ For the solution, we have created and used five modules:
 ├── terraform.tfvars          // The file to pass the terraform variables values.
 
 
-
 Challenge-2
 
 To get the entire JSON, the code can be run as:
