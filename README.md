@@ -15,6 +15,12 @@ For the solution, we have created and used five modules:
 4. compute - creating availability sets, network interfaces and virtual machines
 5. database - creating database server and database
 
+├── main.tf                   // The primary entrypoint for terraform resources.
+├── vars.tf                   // It contain the declarations for variables.
+├── output.tf                 // It contain the declarations for outputs.
+├── terraform.tfvars          // The file to pass the terraform variables values.
+
+
 Challenge-2
 
 To get the entire JSON, the code can be run as:
